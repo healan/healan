@@ -18,34 +18,6 @@ Currently pursuing an MSc in Data Analytics at the National College of Ireland, 
 
 ---
 
-Tech Stack
-
-Programming Languages
-
-JavaScript · TypeScript · Java · Python · SQL
-
-Frontend
-
-React · HTML · CSS
-
-Backend & APIs
-
-Node.js · Express · Spring · REST APIs · Postman
-
-Databases
-
-PostgreSQL · MySQL · Oracle
-
-Cloud & DevOps
-
-AWS · Docker · Git · GitHub Actions · CI/CD
-
-Data & Analytics
-
-Power BI · Pandas · NumPy · PySpark
-
----
-
 ## Currently Exploring
 
 * Machine Learning
