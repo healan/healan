@@ -4,14 +4,13 @@
 
 I'm a Software Engineer with 5+ years of experience building scalable web applications across finance, retail, energy, and public sectors.
 
-Currently pursuing an MSc in Data Analytics at the National College of Ireland, I'm passionate about building reliable software, exploring AI-powered solutions, and continuously learning new technologies.
+I'm passionate about building reliable software, exploring AI-powered solutions, and continuously learning new technologies.
 
 ---
 
 ## About Me
 
 * 5+ years of professional software development experience
-* Currently studying MSc Data Analytics
 * Interested in Software Engineering, AI, Cloud, and Data Engineering
 * Fluent in **Korean**, **Chinese**, and **English**
 * Always curious about better ways to solve problems
