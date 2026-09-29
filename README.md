@@ -6,7 +6,6 @@ I'm a Software Engineer with 5+ years of experience building scalable web applic
 
 I'm passionate about building reliable software, exploring AI-powered solutions, and continuously learning new technologies.
 
----
 
 ## About Me
 
@@ -15,7 +14,6 @@ I'm passionate about building reliable software, exploring AI-powered solutions,
 * Fluent in **Korean**, **Chinese**, and **English**
 * Always curious about better ways to solve problems
 
----
 
 ## Currently Exploring
 
@@ -24,7 +22,6 @@ I'm passionate about building reliable software, exploring AI-powered solutions,
 * System Design
 * Building AI-powered applications
 
----
 
 ## Outside of Coding
 
@@ -32,7 +29,6 @@ I enjoy photography, hiking, meeting people from different cultures, and discove
 
 One thing you'll quickly notice about me: if I don't know something, I'll keep learning until I do.
 
----
 
 ## Let's Connect
 
